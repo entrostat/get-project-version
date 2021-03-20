@@ -1,5 +1,5 @@
 {
-    "name": "get-project-version",
+    "name": "@entrostat/get-project-version",
     "description": "Returns the version in the package.json of the current directory you're in.",
     "version": "1.0.0",
     "author": "Kerren @Kerren-Entrostat",
