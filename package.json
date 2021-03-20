@@ -1,7 +1,7 @@
 {
     "name": "get-project-version",
     "description": "Returns the version in the package.json of the current directory you're in.",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "author": "Kerren @Kerren-Entrostat",
     "bin": {
         "get-project-version": "./bin/run"
