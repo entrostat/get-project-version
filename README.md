@@ -15,11 +15,11 @@ Returns the version in the package.json of the current directory you&#39;re in.
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g get-project-version
+$ npm install -g @entrostat/get-project-version
 $ get-project-version COMMAND
 running command...
 $ get-project-version (-v|--version|version)
-get-project-version/0.0.0 linux-x64 node-v14.15.0
+@entrostat/get-project-version/1.0.1 linux-x64 node-v14.15.0
 $ get-project-version --help [COMMAND]
 USAGE
   $ get-project-version COMMAND
